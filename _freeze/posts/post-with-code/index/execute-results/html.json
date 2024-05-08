@@ -1,0 +1,14 @@
+{
+  "hash": "2557c47cef7bb89c957ab5fce8290b99",
+  "result": {
+    "markdown": "---\ntitle: \"Analysis of DHS Data\"\nauthor: \"Amy Mwikali Mwanga\"\ndate: \"2024-05-08\"\ncategories: [news, code, analysis,  r]\nimage: \"image.jpg\"\n---\n\n\nThis was a project using DHS data. You can find the project [here](https://github.com/amymwix/owid_life_satisfaction){target=\"_blank\"}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

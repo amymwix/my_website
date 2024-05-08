@@ -1,0 +1,16 @@
+---
+title: "Amy Mwikali Mwanga"
+image: 2369.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/amy-mwanga-870218149
+    - icon: github
+      text: Github
+      href: https://github.com/amymwix
+---
+
+Welcome to Amy (Mwikali) Mwanga's website! Amy is a passionate Public Health Officer and Epidemiologist with a strong focus on clinical data management, scientific research, and data analysis in healthcare. With over 5 years of experience in the field, Amy has honed her skills in databases, data modeling, and clinical data management. Explore Amy's expertise as she delves into the intersection of public health, epidemiology, and data-driven insights for improved healthcare outcomes.
+
